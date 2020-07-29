@@ -35,6 +35,7 @@ Go to [`.env.example`](.env.example), and place your API Key from [Weather Stack
 ```
 API_KEY="place_key_here"
 ``` 
+Then, Rename the file to `.env`
 
 ### Running the program
 ```
@@ -42,8 +43,8 @@ pipenv run app.py
 ```
 
 ## How to create an .EXE file
-After creating the pipenv shell and installing all dependencies run:
+After creating the pipenv shell, creating the `.env` file, and installing all dependencies run:
 ```
 pipenv run pyinstaller app.spec
 ```
-This will create a new folder inside `dist`, containing the .exe and it's required files
+This will create a new folder inside `dist`, containing the .exe and it's required files, afte
