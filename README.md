@@ -47,4 +47,4 @@ After creating the pipenv shell, creating the `.env` file, and installing all de
 ```
 pipenv run pyinstaller app.spec
 ```
-This will create a new folder inside `dist`, containing the .exe and it's required files, afte
+This will create a new folder inside `dist`, containing the .exe and it's required files
