@@ -3,7 +3,7 @@
 - [About CapiWeather](#about)
 - [APIs Used](#apis)
 - [How to Run CapiWeather](#how-to-run-capiweather)
-- [](#)
+- [Creating an .EXE](#how-to-create-an-exe-file)
 
 ## About
 CapiWeather simple Weather GUI which combines various data on a Country's Capital, and it's current Weather, using Tkinter, Threading, and Requests
